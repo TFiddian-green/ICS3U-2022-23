@@ -23,6 +23,7 @@ public class ExampleOne {
         System.out.print("D");
         System.out.print("E");
         System.out.print("F");
+        System.out.println("G");
     }
     
 }
