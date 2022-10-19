@@ -59,5 +59,7 @@ public class BayviewGlenPools {
         System.out.println("The amount of water needed to keep the pool 90% full is " + ninetypercentvolume + " cubic metres");
         System.out.println("The total meters squared of liner need to complete the pool is " + totallinerarea);
         System.out.println("The cost of the liner needed to complete the pool is $" + totallinercost);
+
+        in.close();
     }
 }
