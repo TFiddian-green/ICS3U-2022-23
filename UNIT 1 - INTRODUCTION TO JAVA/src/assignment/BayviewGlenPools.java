@@ -16,7 +16,7 @@ public class BayviewGlenPools {
         int width = in.nextInt();
 
         System.out.println("Please enter the depth of the shallow end");
-        int shallowdepth = in.nextInt();
+        int shallowdepth = in.nextInt(); 
 
         System.out.println("Please enter the depth of the deep end");
         int deepdepth = in.nextInt();
