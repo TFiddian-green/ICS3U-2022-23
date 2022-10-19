@@ -30,7 +30,7 @@ public class BayviewGlenPools {
         System.out.println("Please enter the price per meter squared of the liner that they can get for the pool");
         int priceliner = in.nextInt();
 
-        //calculations for surface area
+        //calculations for surface area 
 
         double shallowendarea = shallowdepth*width;
         double shallowsidearea = (shallowdepth*shallowlength)*2;
